@@ -1,0 +1,1078 @@
+{
+  "events": [
+    {
+      "eventClock": "21:00",
+      "eventCover": "https://www.rapertuar.com/wp-content/uploads/2022/02/ezhel-1-1-scaled.jpg",
+      "eventDate": "2023-02-23",
+      "eventFeatured": true,
+      "eventID": 1,
+      "eventLocation": {
+        "latitude": 50.93841362237236,
+        "latitudeDelta": 0.0922,
+        "locationName": "Lanxess Arena , Almanya",
+        "longitude": 6.982951057363988,
+        "longitudeDelta": 0.0421
+      },
+      "eventPrices": [
+        {
+          "doluKoltuklar": {
+            "-NAUpabprJfkC7qJn2t6": {
+              "koltukNo": 31,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUpac6PRSEP5kz0Hjk": {
+              "koltukNo": 32,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUpacFYhWK9COOSbGN": {
+              "koltukNo": 42,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUpacMkktZfF-Tj1G4": {
+              "koltukNo": 50,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUpacX7X-quRkOahEV": {
+              "koltukNo": 60,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            }
+          },
+          "koltuklar": 100,
+          "name": "1.Kategori",
+          "price": "600"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "3.Kategori",
+          "price": "400"
+        },
+        {
+          "koltuklar": 50,
+          "name": "4.Kategori",
+          "price": "300"
+        },
+        {
+          "koltuklar": 50,
+          "name": "5.Kategori",
+          "price": "250"
+        },
+        {
+          "koltuklar": 50,
+          "name": "6.Kategori",
+          "price": "200"
+        }
+      ],
+      "eventRules": [
+        {
+          "rules": "Etkinlikte 18 yaş sınırı vardır."
+        },
+        {
+          "rules": "Belirtilen saat kapı açılış saatidir."
+        },
+        {
+          "rules": "Sahnede kullanılan LED ekranlar, Lazer showlar Epilepsi hastaları için uygun değildir."
+        },
+        {
+          "rules": "Paketi açılmış tütün ve tütün ürünleri kesinlikle konser alanı içine alınmayacaktır."
+        }
+      ],
+      "eventTitle": "EZHEL",
+      "eventVideo": "FfUmdamEros"
+    },
+    {
+      "eventClock": "21:00",
+      "eventCover": "https://i.ytimg.com/vi/df_0SE6sfBE/maxresdefault.jpg",
+      "eventDate": "2022-11-11",
+      "eventFeatured": true,
+      "eventID": 2,
+      "eventLocation": {
+        "latitude": 39.91155090403291,
+        "latitudeDelta": 0.0922,
+        "locationName": "Congresium Ankara",
+        "longitude": 32.80312192896307,
+        "longitudeDelta": 0.0421
+      },
+      "eventPrices": [
+        {
+          "koltuklar": 100,
+          "name": "1.Kategori",
+          "price": "600"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "3.Kategori",
+          "price": "400"
+        },
+        {
+          "koltuklar": 50,
+          "name": "4.Kategori",
+          "price": "300"
+        },
+        {
+          "koltuklar": 50,
+          "name": "5.Kategori",
+          "price": "250"
+        },
+        {
+          "koltuklar": 50,
+          "name": "6.Kategori",
+          "price": "200"
+        }
+      ],
+      "eventRules": [
+        {
+          "rules": "Etkinlikte 18 yaş sınırı vardır."
+        },
+        {
+          "rules": "Belirtilen saat kapı açılış saatidir."
+        },
+        {
+          "rules": "Sahnede kullanılan LED ekranlar, Lazer showlar Epilepsi hastaları için uygun değildir."
+        },
+        {
+          "rules": "Paketi açılmış tütün ve tütün ürünleri kesinlikle konser alanı içine alınmayacaktır."
+        }
+      ],
+      "eventTitle": "CEM ADRİAN",
+      "eventVideo": "Uq7m5xgouV8"
+    },
+    {
+      "eventClock": "21:00",
+      "eventCover": "https://cumhuriyet.com.tr/Archive/2022/2/4/1905122/kapak_104556.jpg",
+      "eventDate": "2022-09-30",
+      "eventFeatured": true,
+      "eventID": 3,
+      "eventLocation": {
+        "latitude": 41.10797117512355,
+        "latitudeDelta": 0.0922,
+        "locationName": "Turkcell Vadi , İstanbul",
+        "longitude": 28.98732523653619,
+        "longitudeDelta": 0.0421
+      },
+      "eventPrices": [
+        {
+          "doluKoltuklar": {
+            "-NAUpRHW9kRr8C-_jh24": {
+              "koltukNo": 31,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUpRI7oPY5cXS5RaAi": {
+              "koltukNo": 32,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUpRIJ8hzcDj5jA3Sn": {
+              "koltukNo": 42,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUpRIO_CX-VdXq51-y": {
+              "koltukNo": 50,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUpRIV20Cc_NIjQo7J": {
+              "koltukNo": 60,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            }
+          },
+          "koltuklar": 100,
+          "name": "Sahne Onu A Blok",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "Sahne Onu B Blok",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "Sahne Onu C Blok",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "1.Kategori A BLOK",
+          "price": "350"
+        },
+        {
+          "koltuklar": 50,
+          "name": "1.Kategori C BLOK",
+          "price": "350"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori D BLOK",
+          "price": "300"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori E BLOK",
+          "price": "300"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori F BLOK",
+          "price": "300"
+        }
+      ],
+      "eventRules": [
+        {
+          "rules": "Etkinlikte 18 yaş sınırı vardır."
+        },
+        {
+          "rules": "Belirtilen saat kapı açılış saatidir."
+        },
+        {
+          "rules": "Sahnede kullanılan LED ekranlar, Lazer showlar Epilepsi hastaları için uygun değildir."
+        },
+        {
+          "rules": "Paketi açılmış tütün ve tütün ürünleri kesinlikle konser alanı içine alınmayacaktır."
+        }
+      ],
+      "eventTitle": "SEFO",
+      "eventVideo": "JiaWCah7Nfs"
+    },
+    {
+      "eventClock": "21:00",
+      "eventCover": "https://www.biletix.com/static/images/live/event/groupimages/0rgevgeny.png",
+      "eventDate": "2022-10-09",
+      "eventFeatured": true,
+      "eventID": 4,
+      "eventLocation": {
+        "latitude": 41.10797117512355,
+        "latitudeDelta": 0.0922,
+        "locationName": "Turkcell Vadi , İstanbul",
+        "longitude": 28.98732523653619,
+        "longitudeDelta": 0.0421
+      },
+      "eventPrices": [
+        {
+          "doluKoltuklar": {
+            "-NAUvL8qZWxgKT_2I8nc": {
+              "koltukNo": 21,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvL9J4c_rwSMUFiwa": {
+              "koltukNo": 32,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvL9VSfFDRURhIUAn": {
+              "koltukNo": 48,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvL9bqlx_Vbfpmpg4": {
+              "koltukNo": 59,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvL9gISiy4-2qqVfL": {
+              "koltukNo": 68,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvOrAA7B8fmovrDOf": {
+              "koltukNo": 1,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvOr_CtWrbj4haJLF": {
+              "koltukNo": 4,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvOs9jPLRHwCGcN05": {
+              "koltukNo": 6,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvOsHRbTLDdvkrMlF": {
+              "koltukNo": 11,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvOsNkoItWK6TVMO6": {
+              "koltukNo": 14,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvSLrUVAnA2NS11By": {
+              "koltukNo": 55,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvSM2Dxbr33FvtVbZ": {
+              "koltukNo": 64,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvSM95Wp48lgXpBTH": {
+              "koltukNo": 74,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvSMEIhDtQ1kXB9DP": {
+              "koltukNo": 84,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvSMKzF_RqJF2UHd3": {
+              "koltukNo": 91,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvVhsThbFUWWrVMsV": {
+              "koltukNo": 43,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvVi4aGFxq-yhEzO6": {
+              "koltukNo": 53,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvViCK9Kh4b5uW0Qf": {
+              "koltukNo": 70,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvViKfS_eM-1LP7HR": {
+              "koltukNo": 80,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUvViQ0R9pT5hnayjI": {
+              "koltukNo": 88,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUxDlJrAmVyxSTxgh9": {
+              "koltukNo": 20,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUxDlohS8enlOk4ImW": {
+              "koltukNo": 28,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUxDm0neIP5iiEf24h": {
+              "koltukNo": 29,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUxDm9tW5f2LV8dVev": {
+              "koltukNo": 31,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAUxDmHSc372Z7QYp4w": {
+              "koltukNo": 39,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            }
+          },
+          "koltuklar": 100,
+          "name": "Sahne Onu A Blok",
+          "price": "900"
+        },
+        {
+          "koltuklar": 50,
+          "name": "Sahne Onu B Blok",
+          "price": "900"
+        },
+        {
+          "koltuklar": 50,
+          "name": "Sahne Onu C Blok",
+          "price": "900"
+        },
+        {
+          "koltuklar": 50,
+          "name": "1.Kategori A BLOK",
+          "price": "550"
+        },
+        {
+          "koltuklar": 50,
+          "name": "1.Kategori C BLOK",
+          "price": "550"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori D BLOK",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori E BLOK",
+          "price": "400"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori F BLOK",
+          "price": "400"
+        }
+      ],
+      "eventRules": [
+        {
+          "rules": "Etkinlikte 18 yaş sınırı vardır."
+        },
+        {
+          "rules": "Belirtilen saat kapı açılış saatidir."
+        },
+        {
+          "rules": "Sahnede kullanılan LED ekranlar, Lazer showlar Epilepsi hastaları için uygun değildir."
+        },
+        {
+          "rules": "Paketi açılmış tütün ve tütün ürünleri kesinlikle konser alanı içine alınmayacaktır."
+        }
+      ],
+      "eventTitle": "EVENGY GRİNKO",
+      "eventVideo": "VYCOg-yglNM"
+    },
+    {
+      "eventClock": "21:00",
+      "eventCover": "https://i01.sozcucdn.com/wp-content/uploads/2019/10/31/iecrop/sila-2_16_9_1572507040.jpg",
+      "eventDate": "2022-10-25",
+      "eventFeatured": false,
+      "eventID": 5,
+      "eventLocation": {
+        "latitude": 41.04611344273394,
+        "latitudeDelta": 0.0922,
+        "locationName": "İstanbul Harbiye Cemil Topuzlu Açıkhava",
+        "longitude": 28.99015574429423,
+        "longitudeDelta": 0.0421
+      },
+      "eventPrices": [
+        {
+          "koltuklar": 100,
+          "name": "1.Kategori",
+          "price": "600"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "3.Kategori",
+          "price": "400"
+        },
+        {
+          "koltuklar": 50,
+          "name": "4.Kategori",
+          "price": "300"
+        },
+        {
+          "koltuklar": 50,
+          "name": "5.Kategori",
+          "price": "250"
+        },
+        {
+          "koltuklar": 50,
+          "name": "6.Kategori",
+          "price": "200"
+        }
+      ],
+      "eventRules": [
+        {
+          "rules": "Etkinlikte 18 yaş sınırı vardır."
+        },
+        {
+          "rules": "Belirtilen saat kapı açılış saatidir."
+        },
+        {
+          "rules": "Sahnede kullanılan LED ekranlar, Lazer showlar Epilepsi hastaları için uygun değildir."
+        },
+        {
+          "rules": "Paketi açılmış tütün ve tütün ürünleri kesinlikle konser alanı içine alınmayacaktır."
+        }
+      ],
+      "eventTitle": "SILA",
+      "eventVideo": "mzqPKKG_4sE"
+    },
+    {
+      "eventClock": "21:00",
+      "eventCover": "http://www.turktime.com/haber_resim/yuzyuze454_tepe.jpg",
+      "eventDate": "2022-09-10",
+      "eventFeatured": false,
+      "eventID": 6,
+      "eventLocation": {
+        "latitude": 41.04611344273394,
+        "latitudeDelta": 0.0922,
+        "locationName": "İstanbul Harbiye Cemil Topuzlu Açıkhava",
+        "longitude": 28.99015574429423,
+        "longitudeDelta": 0.0421
+      },
+      "eventPrices": [
+        {
+          "doluKoltuklar": {
+            "-NAU-_x94COYSyvmFZP1": {
+              "koltukNo": 14,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAU-_xrrd_QFkvwE1HR": {
+              "koltukNo": 23,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAU-_y1R8JnlYuFM8oW": {
+              "koltukNo": 24,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAU-_yB57xLhLa5IDfX": {
+              "koltukNo": 33,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            },
+            "-NAU-_yL7-y3zeV1EMBY": {
+              "koltukNo": 42,
+              "userEmail": "sinanozturkk@icloud.com",
+              "userID": "HSsvADnGyWVkskh0HXnRg5D9hzG3",
+              "userName": "Sinan Öztürk"
+            }
+          },
+          "koltuklar": 100,
+          "name": "1.Kategori",
+          "price": "600"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "3.Kategori",
+          "price": "400"
+        },
+        {
+          "koltuklar": 50,
+          "name": "4.Kategori",
+          "price": "300"
+        },
+        {
+          "koltuklar": 50,
+          "name": "5.Kategori",
+          "price": "250"
+        },
+        {
+          "koltuklar": 50,
+          "name": "6.Kategori",
+          "price": "200"
+        }
+      ],
+      "eventRules": [
+        {
+          "rules": "Etkinlikte 18 yaş sınırı vardır."
+        },
+        {
+          "rules": "Belirtilen saat kapı açılış saatidir."
+        },
+        {
+          "rules": "Sahnede kullanılan LED ekranlar, Lazer showlar Epilepsi hastaları için uygun değildir."
+        },
+        {
+          "rules": "Paketi açılmış tütün ve tütün ürünleri kesinlikle konser alanı içine alınmayacaktır."
+        }
+      ],
+      "eventTitle": "YÜZYÜZEYKEN KONUŞURUZ",
+      "eventVideo": "fR2JHaCDrMw"
+    },
+    {
+      "eventClock": "21:00",
+      "eventCover": "https://cumhuriyet.com.tr/Archive/2022/7/25/1961605/kapak_073942.jpg",
+      "eventDate": "2022-09-09",
+      "eventFeatured": true,
+      "eventID": 7,
+      "eventLocation": {
+        "latitude": 41.04611344273394,
+        "latitudeDelta": 0.0922,
+        "locationName": "İstanbul Harbiye Cemil Topuzlu Açıkhava",
+        "longitude": 28.99015574429423,
+        "longitudeDelta": 0.0421
+      },
+      "eventPrices": [
+        {
+          "koltuklar": 100,
+          "name": "1.Kategori",
+          "price": "600"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "3.Kategori",
+          "price": "400"
+        },
+        {
+          "koltuklar": 50,
+          "name": "4.Kategori",
+          "price": "300"
+        },
+        {
+          "koltuklar": 50,
+          "name": "5.Kategori",
+          "price": "250"
+        },
+        {
+          "koltuklar": 50,
+          "name": "6.Kategori",
+          "price": "200"
+        }
+      ],
+      "eventRules": [
+        {
+          "rules": "Etkinlikte 18 yaş sınırı vardır."
+        },
+        {
+          "rules": "Belirtilen saat kapı açılış saatidir."
+        },
+        {
+          "rules": "Sahnede kullanılan LED ekranlar, Lazer showlar Epilepsi hastaları için uygun değildir."
+        },
+        {
+          "rules": "Paketi açılmış tütün ve tütün ürünleri kesinlikle konser alanı içine alınmayacaktır."
+        }
+      ],
+      "eventTitle": "ATHENA",
+      "eventVideo": "Z8aqzdARZns"
+    },
+    {
+      "eventClock": "21:00",
+      "eventCover": "https://i.discogs.com/xcUf0m2tlylBQYHPNNSX_D_smhaqmuVTZWl180cO5sw/rs:fit/g:sm/q:90/h:478/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY0MjIz/MS0xNDk1Nzg2MDcx/LTc0NTYuanBlZw.jpeg",
+      "eventDate": "2022-10-05",
+      "eventFeatured": true,
+      "eventID": 8,
+      "eventLocation": {
+        "latitude": 36.881767074118436,
+        "latitudeDelta": 0.0922,
+        "locationName": "Antalya Açıkhava Tiyatrosu",
+        "longitude": 30.667132393084024,
+        "longitudeDelta": 0.0421
+      },
+      "eventPrices": [
+        {
+          "koltuklar": 100,
+          "name": "1.Kategori",
+          "price": "600"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "3.Kategori",
+          "price": "400"
+        },
+        {
+          "koltuklar": 50,
+          "name": "4.Kategori",
+          "price": "300"
+        },
+        {
+          "koltuklar": 50,
+          "name": "5.Kategori",
+          "price": "250"
+        },
+        {
+          "koltuklar": 50,
+          "name": "6.Kategori",
+          "price": "200"
+        }
+      ],
+      "eventRules": [
+        {
+          "rules": "Etkinlikte 18 yaş sınırı vardır."
+        },
+        {
+          "rules": "Belirtilen saat kapı açılış saatidir."
+        },
+        {
+          "rules": "Sahnede kullanılan LED ekranlar, Lazer showlar Epilepsi hastaları için uygun değildir."
+        },
+        {
+          "rules": "Paketi açılmış tütün ve tütün ürünleri kesinlikle konser alanı içine alınmayacaktır."
+        }
+      ],
+      "eventTitle": "DUMAN",
+      "eventVideo": "3bfkyXtuIXk"
+    },
+    {
+      "eventClock": "21:00",
+      "eventCover": "https://www.biletix.com/static/images/live/event/eventimages/0l708s.png",
+      "eventDate": "2022-09-25",
+      "eventFeatured": false,
+      "eventID": 9,
+      "eventLocation": {
+        "latitude": 40.99110684475684,
+        "latitudeDelta": 0.0922,
+        "locationName": "Festival Park Kadıköy",
+        "longitude": 29.01766251285228,
+        "longitudeDelta": 0.0421
+      },
+      "eventPrices": [
+        {
+          "koltuklar": 100,
+          "name": "1.Kategori",
+          "price": "600"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "3.Kategori",
+          "price": "400"
+        },
+        {
+          "koltuklar": 50,
+          "name": "4.Kategori",
+          "price": "300"
+        },
+        {
+          "koltuklar": 50,
+          "name": "5.Kategori",
+          "price": "250"
+        },
+        {
+          "koltuklar": 50,
+          "name": "6.Kategori",
+          "price": "200"
+        }
+      ],
+      "eventRules": [
+        {
+          "rules": "Etkinlikte 18 yaş sınırı vardır."
+        },
+        {
+          "rules": "Belirtilen saat kapı açılış saatidir."
+        },
+        {
+          "rules": "Sahnede kullanılan LED ekranlar, Lazer showlar Epilepsi hastaları için uygun değildir."
+        },
+        {
+          "rules": "Paketi açılmış tütün ve tütün ürünleri kesinlikle konser alanı içine alınmayacaktır."
+        }
+      ],
+      "eventTitle": "CEZA",
+      "eventVideo": "mY--4-vzY6E"
+    },
+    {
+      "eventClock": "20:00",
+      "eventCover": "https://ippasso.mediatriple.net/event/15082022173852-16042022135730-1080x1920_w_logo.png",
+      "eventDate": "2022-10-26",
+      "eventFeatured": true,
+      "eventID": 10,
+      "eventLocation": {
+        "latitude": 40.98943587123528,
+        "latitudeDelta": 0.0922,
+        "locationName": "Dorock XL Kadıköy , İstanbul",
+        "longitude": 29.02348792202982,
+        "longitudeDelta": 0.0421
+      },
+      "eventPrices": [
+        {
+          "koltuklar": 100,
+          "name": "1.Kategori",
+          "price": "600"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "3.Kategori",
+          "price": "400"
+        },
+        {
+          "koltuklar": 50,
+          "name": "4.Kategori",
+          "price": "300"
+        },
+        {
+          "koltuklar": 50,
+          "name": "5.Kategori",
+          "price": "250"
+        },
+        {
+          "koltuklar": 50,
+          "name": "6.Kategori",
+          "price": "200"
+        }
+      ],
+      "eventRules": [
+        {
+          "rules": "Etkinlikte 18 yaş sınırı vardır."
+        },
+        {
+          "rules": "Belirtilen saat kapı açılış saatidir."
+        },
+        {
+          "rules": "Sahnede kullanılan LED ekranlar, Lazer showlar Epilepsi hastaları için uygun değildir."
+        },
+        {
+          "rules": "Paketi açılmış tütün ve tütün ürünleri kesinlikle konser alanı içine alınmayacaktır."
+        }
+      ],
+      "eventTitle": "GÜNEŞ",
+      "eventVideo": "L7U1tcDjIHY"
+    },
+    {
+      "eventClock": "16:00",
+      "eventCover": "https://staticws.biletix.com/static/images/live/event/eventimages/0ds29.png",
+      "eventDate": "2022-09-16",
+      "eventFeatured": true,
+      "eventID": 11,
+      "eventLocation": {
+        "latitude": 41.127340559170825,
+        "latitudeDelta": 0.0922,
+        "locationName": "Parkorman , İstanbul",
+        "longitude": 29.024197027010878,
+        "longitudeDelta": 0.0421
+      },
+      "eventPrices": [
+        {
+          "koltuklar": 100,
+          "name": "1.Kategori",
+          "price": "600"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "3.Kategori",
+          "price": "400"
+        },
+        {
+          "koltuklar": 50,
+          "name": "4.Kategori",
+          "price": "300"
+        },
+        {
+          "koltuklar": 50,
+          "name": "5.Kategori",
+          "price": "250"
+        },
+        {
+          "koltuklar": 50,
+          "name": "6.Kategori",
+          "price": "200"
+        }
+      ],
+      "eventRules": [
+        {
+          "rules": "Etkinlikte 18 yaş sınırı vardır."
+        },
+        {
+          "rules": "Belirtilen saat kapı açılış saatidir."
+        },
+        {
+          "rules": "Sahnede kullanılan LED ekranlar, Lazer showlar Epilepsi hastaları için uygun değildir."
+        },
+        {
+          "rules": "Paketi açılmış tütün ve tütün ürünleri kesinlikle konser alanı içine alınmayacaktır."
+        }
+      ],
+      "eventTitle": "DOLU KADEHİ TERS TUT",
+      "eventVideo": "uvLwSpoYMc4"
+    },
+    {
+      "eventClock": "16:00",
+      "eventCover": "https://ippasso.mediatriple.net/event/16082022121403-teoman-livefromantalya.jpg",
+      "eventDate": "2022-09-23",
+      "eventFeatured": true,
+      "eventID": 12,
+      "eventLocation": {
+        "latitude": 36.91505072346318,
+        "latitudeDelta": 0.0922,
+        "locationName": "Agora AVM Antalya",
+        "longitude": 30.77319174307876,
+        "longitudeDelta": 0.0421
+      },
+      "eventPrices": [
+        {
+          "koltuklar": 100,
+          "name": "1.Kategori",
+          "price": "600"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "3.Kategori",
+          "price": "400"
+        },
+        {
+          "koltuklar": 50,
+          "name": "4.Kategori",
+          "price": "300"
+        },
+        {
+          "koltuklar": 50,
+          "name": "5.Kategori",
+          "price": "250"
+        },
+        {
+          "koltuklar": 50,
+          "name": "6.Kategori",
+          "price": "200"
+        }
+      ],
+      "eventRules": [
+        {
+          "rules": "Etkinlikte 18 yaş sınırı vardır."
+        },
+        {
+          "rules": "Belirtilen saat kapı açılış saatidir."
+        },
+        {
+          "rules": "Sahnede kullanılan LED ekranlar, Lazer showlar Epilepsi hastaları için uygun değildir."
+        },
+        {
+          "rules": "Paketi açılmış tütün ve tütün ürünleri kesinlikle konser alanı içine alınmayacaktır."
+        }
+      ],
+      "eventTitle": "TEOMAN",
+      "eventVideo": "Sdw7eaCSzhg"
+    },
+    {
+      "eventClock": "21:00",
+      "eventCover": "https://ippasso.mediatriple.net/event/25082022112458-bege.jpg",
+      "eventDate": "2022-09-17",
+      "eventFeatured": false,
+      "eventID": 13,
+      "eventLocation": {
+        "latitude": 40.991108341290236,
+        "latitudeDelta": 0.0922,
+        "locationName": "Festival Park Kadıköy , İstanbul",
+        "longitude": 29.017786574763797,
+        "longitudeDelta": 0.0421
+      },
+      "eventPrices": [
+        {
+          "koltuklar": 100,
+          "name": "1.Kategori",
+          "price": "600"
+        },
+        {
+          "koltuklar": 50,
+          "name": "2.Kategori",
+          "price": "500"
+        },
+        {
+          "koltuklar": 50,
+          "name": "3.Kategori",
+          "price": "400"
+        },
+        {
+          "koltuklar": 50,
+          "name": "4.Kategori",
+          "price": "300"
+        },
+        {
+          "koltuklar": 50,
+          "name": "5.Kategori",
+          "price": "250"
+        },
+        {
+          "koltuklar": 50,
+          "name": "6.Kategori",
+          "price": "200"
+        }
+      ],
+      "eventRules": [
+        {
+          "rules": "Etkinlikte 18 yaş sınırı vardır."
+        },
+        {
+          "rules": "Belirtilen saat kapı açılış saatidir."
+        },
+        {
+          "rules": "Sahnede kullanılan LED ekranlar, Lazer showlar Epilepsi hastaları için uygun değildir."
+        },
+        {
+          "rules": "Paketi açılmış tütün ve tütün ürünleri kesinlikle konser alanı içine alınmayacaktır."
+        }
+      ],
+      "eventTitle": "BEGE",
+      "eventVideo": "zUbBsJOYr8A"
+    }
+  ]
+}
