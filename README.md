@@ -12,7 +12,7 @@
 
 > Satın alınan koltukları farklı bir kullanıcı tekrardan satın alamıyor.
 
-![](https://i.hizliresim.com/2a5h7wk.gif)
+![cover](https://i.hizliresim.com/2a5h7wk.gif)
 
 > Kullanıcı bilgilerini istediği zaman düzenleyebiliyor , satın aldığı ve favorilerine eklediği etkinlikleri görebiliyor.
 
