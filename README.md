@@ -8,11 +8,11 @@
 
 > Kullanıcı etkileşimli ve yenilikçi mobil uygulama oluşturmaya özen gösterdim.
 
-![](https://i.hizliresim.com/ij6q00q.gif)
+![cover](https://i.hizliresim.com/ij6q00q.gif)
 
 > Satın alınan koltukları farklı bir kullanıcı tekrardan satın alamıyor.
 
-![cover](https://i.hizliresim.com/2a5h7wk.gif)
+![](https://i.hizliresim.com/2a5h7wk.gif)
 
 > Kullanıcı bilgilerini istediği zaman düzenleyebiliyor , satın aldığı ve favorilerine eklediği etkinlikleri görebiliyor.
 
